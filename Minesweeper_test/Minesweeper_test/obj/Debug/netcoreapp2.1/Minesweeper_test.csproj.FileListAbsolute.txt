@@ -1,0 +1,11 @@
+C:\Users\Dell\Documents\PTL\Minesweeper_test\Minesweeper_test\bin\Debug\netcoreapp2.1\Minesweeper_test.deps.json
+C:\Users\Dell\Documents\PTL\Minesweeper_test\Minesweeper_test\bin\Debug\netcoreapp2.1\Minesweeper_test.runtimeconfig.json
+C:\Users\Dell\Documents\PTL\Minesweeper_test\Minesweeper_test\bin\Debug\netcoreapp2.1\Minesweeper_test.runtimeconfig.dev.json
+C:\Users\Dell\Documents\PTL\Minesweeper_test\Minesweeper_test\bin\Debug\netcoreapp2.1\Minesweeper_test.dll
+C:\Users\Dell\Documents\PTL\Minesweeper_test\Minesweeper_test\bin\Debug\netcoreapp2.1\Minesweeper_test.pdb
+C:\Users\Dell\Documents\PTL\Minesweeper_test\Minesweeper_test\obj\Debug\netcoreapp2.1\Minesweeper_test.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\PTL\Minesweeper_test\Minesweeper_test\obj\Debug\netcoreapp2.1\Minesweeper_test.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\PTL\Minesweeper_test\Minesweeper_test\obj\Debug\netcoreapp2.1\Minesweeper_test.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\PTL\Minesweeper_test\Minesweeper_test\obj\Debug\netcoreapp2.1\Minesweeper_test.AssemblyInfo.cs
+C:\Users\Dell\Documents\PTL\Minesweeper_test\Minesweeper_test\obj\Debug\netcoreapp2.1\Minesweeper_test.dll
+C:\Users\Dell\Documents\PTL\Minesweeper_test\Minesweeper_test\obj\Debug\netcoreapp2.1\Minesweeper_test.pdb
